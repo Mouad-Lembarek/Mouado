@@ -1,18 +1,23 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mouad Lembarek</h1>
 <h3 align="center">A Data And Software Engineer Student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouado11&label=Profile%20views&color=0e75b6&style=flat" alt="mouado11" /> </p>
+
+<p align="left"> <a href="https://twitter.com/mouad" target="blank"><img src="https://img.shields.io/twitter/follow/mouad?logo=twitter&style=for-the-badge" alt="mouad" /></a> </p>
 
 - 🔭 I’m currently **Bachelor of engineering Student**
 
-- 🌱 I’m currently learning **Python/JEE/Advanced Java/**
+- 🌱 I’m currently learning: **Python/JEE Advanced Java/Oracle Database**
 
-- 👨‍💻 All of my projects are available at [Sooonwebsite.com](Sooonwebsite.com)
+- 👨‍💻 All of my projects are available at [Sooon_website.com](Sooon_website.com)
 
-- 💬 Ask me about **Python/ Machine Learning/S tatistics**
+- 💬 Ask me about: **Python/Machine Learning/Statistics**
 
 - 📫 You can reach me at **lembarek51@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mouad-lembarek?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mouad-lembarek)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mouad-lembarek/](https://www.linkedin.com/in/mouad-lembarek/)
 
 - ⚡ **I'm Funny and Serious :)**
 
@@ -29,3 +34,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mouado"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mouado" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouado11&show_icons=true&locale=en&layout=compact" alt="mouado11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouado11&show_icons=true&locale=en" alt="mouado11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouado11&" alt="mouado11" /></p>
